@@ -8,6 +8,6 @@ The <a href="http://wordpressfoundation.org/trademark-policy/">WordPress Foundat
 
 For example only employees of Super Sandbox should use the slug “super-sandbox," or their brand in a context such as “Super Sandbox Dancing Sloths.” Non-employees should use a format such as “Dancing Sloths for Superbox” instead to avoid potentially misleading users into believing the plugin was developed by Super Sandbox. Similarly, if you don't represent the "MellowYellowSandbox.js" project, it's inappropriate to use that as the name of your plugin.
 
-Some trademark owners do not allow the usage of their trademarks within plugin names at all, even if being used to describe features. This can mean that a plugin name such as “Dancing Sloths for Superbox” may not be acceptable. Trademark owners have also been known to update their fair-use terms, forcing you to change the name at a later date.
+Some trademark owners do not allow the usage of their trademarks within plugin names at all, even if being used to describe features. This can mean that a plugin name such as “Dancing Sloths for Superbox” may not be acceptable. Trademark owners have also been known to update their terms-of-use, forcing you to change the name at a later date.
 
 For these reasons, Original branding is recommended as it not only helps to avoid confusion, but is more memorable to the user.
